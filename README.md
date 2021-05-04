@@ -1,3 +1,5 @@
+`npx create-react-app cra-snapshots --template typescript && cd cra-snapshots && yarn eject`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
